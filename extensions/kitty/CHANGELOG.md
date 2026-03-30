@@ -1,6 +1,6 @@
 # Kitty Raycast Extension Changelog
 
-## [Update] - {PR_MERGE_DATE}
+## [Update] - 2026-03-30
 
 ### Fixed
 
